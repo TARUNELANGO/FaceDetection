@@ -2,7 +2,7 @@
 A face detection deep learning model that is able to recognize face images (sent during training) by creating a bounding box around the same.
 
 ## Model Used
-VGG 16
+VGG16
 
 ## Performance Metric
 Classification Loss (bounding box label) and 
