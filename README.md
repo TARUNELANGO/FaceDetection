@@ -5,7 +5,7 @@ A face detection deep learning model that is able to recognize face images (sent
 VGG 16
 
 ## Performance Metric
-Classification Loss (bounding box label) \n
+Classification Loss (bounding box label) and 
 Regression Loss (of the bounding box coordinates)
 
 ## Youtube Video Link
